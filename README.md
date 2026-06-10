@@ -19,7 +19,7 @@ This repository contains examples, documentation, architecture diagrams, and eng
 
 ## Highlights
 
-- Manage biweekly release cycles across 40+ services in 16 environments
+- Managed biweekly production release cycles across 40+ services in Canada and US environments 
 - Provision AWS infrastructure using Terraform
 - Built and maintained OpenSearch SIEM environments
 - Migrated DigitalOcean infrastructure to OVHCloud + Proxmox

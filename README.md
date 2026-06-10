@@ -1,4 +1,4 @@
-# Platform Engineering Portfolio
+# DevOps Engineering Portfolio
 
 DevOps / Platform Engineer with 4+ years of experience operating infrastructure in a HIPAA-regulated SaaS environment.
 

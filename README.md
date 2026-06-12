@@ -9,7 +9,7 @@ DevOps Engineer with 4+ years of experience operating infrastructure in a HIPAA-
 - Manage biweekly release cycles for 40+ containerized services across US and Canadian production environments
 - Provision and manage AWS infrastructure with Terraform (EC2, ECS, Lambda, S3, SSM, EventBridge, IAM)
 - Built an OpenSearch SIEM from the ground up — ingestion pipelines, Lambda-based alerting, custom Sigma rules
-- Migrated 14 DigitalOcean droplets to OVHcloud bare metal on Proxmox VE, saving ~$1,500 CAD/month
+- Migrated 14 DigitalOcean droplets to OVHcloud bare metal on Proxmox VE, saving a significant amount in operational costs
 - Contributed technical controls to a FedRAMP authorization effort
 - Administer enterprise Keycloak SSO with least-privilege IAM and key rotation
 
